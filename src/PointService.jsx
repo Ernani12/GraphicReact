@@ -1,7 +1,12 @@
 import React from 'react'
 import APIService from './ApiService'
 
+
 export default class PointComponemt extends React.Component {
+
+
+
+    
 
     constructor(props) {
         super(props)
